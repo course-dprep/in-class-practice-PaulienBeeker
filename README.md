@@ -23,7 +23,14 @@
 ## Method
 
 - What methods do you use to answer your research question?
-- Provide justification for why it is the most suitable. 
+- Provide justification for why it is the most suitable.
+
+| Director       | Career Length (Years) | Average Movie Rating |
+|--------------|--------------------|-------------------|
+| Christopher Nolan | 22                 | 8.5               |
+| Quentin Tarantino | 30                 | 8.3               |
+| Steven Spielberg  | 50                 | 8.2               |
+
 
 ## Preview of Findings 
 - Describe the gist of your findings (save the details for the final paper!)
